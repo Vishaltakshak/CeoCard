@@ -1,0 +1,33 @@
+.redesign-home-footer {
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+.redesign-home-social-footer {
+  width: 35px;
+  height: 35px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.redesign-home-footer-text {
+  width: 100%;
+  font-size: 11px;
+  line-height: 20px;
+  text-align: center;
+  margin: 10px auto 0;
+}
+.redesign-home-footer-links {
+  font-family: Montserrat, sans-serif;
+  color: #313131;
+  font-weight: 700;
+  text-decoration: none;
+}
+.redesign-home-footer-links:hover,
+.redesign-home-footer-links:focus {
+  
+  text-decoration: underline;
+}
